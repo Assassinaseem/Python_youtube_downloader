@@ -1,0 +1,9 @@
+Need to install these pacakages :
+
+pip install pyinstaller
+
+pip install eel
+
+pip install PyQRCode
+
+pip install youtube_dl

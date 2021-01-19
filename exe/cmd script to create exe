@@ -1,0 +1,3 @@
+Command Script to create Package in Pyinstaller
+
+C:\you_tube_downloader>python -m eel Youtube_Downloader.py web --noconsole --onefile --icon=ty.ico
